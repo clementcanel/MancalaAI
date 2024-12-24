@@ -25,3 +25,19 @@ This project brings the traditional Mancala game to life in a digital format, wi
 - Add a graphical interface for a more engaging experience.
 - Experiment with more advanced AI techniques to make the gameplay even smarter.
 - Include additional rule variations for Mancala to make the game more dynamic.
+
+  ## How to Run
+This project is implemented as a Jupyter Notebook (`.ipynb` file). Follow these steps to run the game:
+
+1. **Install Jupyter Notebook**:
+     ```
+     pip install notebook
+     ```
+2. **Launch Jupyter Notebook**:
+   - Start Jupyter Notebook with:
+     ```
+     jupyter notebook
+     ```
+   - This will open a new tab in your browser.
+
+3. **Run the Notebook**:
